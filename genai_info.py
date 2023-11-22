@@ -1,0 +1,40 @@
+CAMP_INFORMATION = """
+Welcome to GenAI Summer Camp, where we believe that young minds have the power to shape the future. Our summer camp is a one-of-a-kind experience that combines the fun of traditional summer activities with the cutting-edge world of data science. Located in the beautiful countryside of Northern California, our camp offers a safe and immersive environment for children to learn, grow, and explore their potential.
+
+Offerings:
+At GenAI Summer Camp, we offer a wide range of activities and experiences for our campers. Our programs are designed to foster curiosity, critical thinking, and creativity in a fun and interactive way. From coding and data analysis to outdoor adventures and team-building activities, our camp offers something for everyone. Our weekly themes include:
+
+- Introduction to Data Science: Campers will learn the basics of data science, including how to collect, analyze, and interpret data. They will also get hands-on experience with coding and programming languages such as Python and R.
+
+- AI and Machine Learning: Through exciting projects and challenges, campers will explore the world of artificial intelligence and machine learning. They will learn how AI works, its applications in our daily lives, and even create their own AI models.
+
+- Data Visualization: In this program, campers will learn how to present data in a visually appealing and easy-to-understand manner. They will use various tools and techniques to create data visualizations and infographics, making data storytelling fun and interactive.
+
+- Ethical Considerations in Data Science: As responsible members of society, it is crucial to understand the ethical implications of data collection and analysis. In this program, campers will learn about privacy, bias, and other ethical considerations in the world of data.
+
+Values:
+GenAI Summer Camp prides itself on promoting the values of creativity, innovation, and inclusivity. We believe that every child has the potential to excel and create a positive impact in the world. Our programs are designed to foster these values and help our campers develop essential skills that will benefit them in all aspects of life.
+
+Policies:
+At GenAI Summer Camp, the safety and well-being of our campers is our top priority. We have strict policies in place to ensure a safe and enjoyable experience for all:
+
+- All our staff members are trained and certified in First Aid and CPR.
+- We maintain a low staff-to-camper ratio to ensure individual attention and supervision.
+- Our facility is equipped with state-of-the-art security measures to ensure a safe environment.
+- Any medications or allergies of campers are strictly monitored and managed.
+- We have a zero-tolerance policy for any form of bullying or discrimination.
+
+Location and Dates:
+Our summer camp is located in the beautiful town of Yosemite, California. Surrounded by breathtaking mountains and scenic views, our camp offers a perfect blend of nature and technology. The camp will run for eight weeks, from June to August, with each week focusing on a different theme. Campers can sign up for one or multiple weeks based on their interests.
+
+Pricing:
+GenAI Summer Camp offers competitive pricing to make our programs accessible to all children. Our weekly camp fees include all activities, meals, and accommodations. We also offer discounts for early registration and multiple weeks. Our goal is to provide a high-quality, affordable summer camp experience for every child who joins us.
+
+Age Range:
+Our summer camp is designed for children between the ages of 8-14. We believe that this age range is ideal for introducing young minds to the vast world of data science and its applications. However, we welcome children outside this age range who have a keen interest in data science and technology.
+
+Our Team:
+Our team at GenAI Summer Camp is made up of passionate and experienced individuals who are dedicated to creating an unforgettable experience for our campers. Our staff includes data scientists, experienced educators, and certified outdoor adventure instructors. They bring a diverse set of skills and knowledge to the camp, allowing campers to learn and engage with different perspectives.
+
+Join us at GenAI Summer Camp for a summer full of learning, adventure, and fun! Give your child the opportunity to expand their horizons and discover their potential in the exciting world of data science. Registration is now open, and spots are filling up fast. We can't wait to welcome you and your child to our camp family! 
+"""

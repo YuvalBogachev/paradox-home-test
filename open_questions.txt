@@ -1,0 +1,44 @@
+---------------------------------------------------
+Question 1:
+---------------------------------------------------
+If I had more time, I'd optimize the process by
+not settling for a "mega prompt" that is
+assembled from little prompts, but go for a system
+of interacting prompts, that can communicate with
+each other to allow for a better seperation of
+overall and allow to have more context to each
+request to the model, since we wouldn't have to
+carry the mega prompt with us for every request
+(In essence, what are agents in langchain). This
+is a more elborate setup, but has many more failure
+points and would require extensive experimintation
+to ensure quality.
+
+---------------------------------------------------
+Question 2:
+---------------------------------------------------
+To test the effectiveness of the prompts we need
+someone or something that can comprehand language,
+so either a human or another LLM. So we can either
+crowdsource the process of testing the bot or we
+can use another LLM to evaluate how it preforms (
+These options are not far from how OpenAI does it
+and I personally have experience with the second).
+ 
+---------------------------------------------------
+Question 3:
+---------------------------------------------------
+Maybe this qualifies as an edge case maybe it
+doesn't, but if you ask the bot off topic questions
+he will correctly identify that it is not relevant
+and will steer the conversation back. But for some
+questions it cannot help but to answer them (while
+still insisting to go back on topic) because he has
+world knowledge. This is the same issue faced by
+prompt engineers when trying to prevent unethical
+input, since if you use the right words, you can
+cut through any prompt. So I would think of a way
+to put a prompt restrictive in a sense of world
+knowledge (its a balancing act, since it use that 
+same world knowledge to simulate coversation).
+

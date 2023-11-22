@@ -1,0 +1,21 @@
+---------------------------------------------------
+How to run the code:
+---------------------------------------------------
+You can use one of two options:
+1. The notebook.
+2. The raw python code.
+
+In both of them you need to provide an API key in
+either the matching cell or api_key.py.
+
+For the noteook use any supported python notebook
+platform and simply run all the cells. The last
+cell is where al the interaction happens.
+
+For the raw python code, first you need to install 
+the required libraries, using requirements.txt.
+Then you can generate the camp description using
+generate_camp_text.py. I have provided the text
+that was generated for me in genai_info.py and it
+is what is being used in the code. After that
+simply run main.py and interact with the bot.

@@ -1,0 +1,26 @@
+---------------------------------------------------
+My Approach:
+---------------------------------------------------
+At first I wanted to build a multi agent
+environment where each prompt will act on it own
+and they will communicate with each other. This
+would allow greater flexability and more context.
+However, it proved to be more difficult to manage
+than a series of prompts. So I decided on 
+combining the 3 prompts using a template to allow
+for a single unit of execution for ease of use and
+better debugging. I had some trouble with the
+prompt correctly identifying the information from
+the GenAI summer camp, so I decieded to enginner
+another prompt that will output the details in
+JSON for ease of parsing by the main prompt.
+The mega prompt is essentialy my agents ideas
+condenced to a single prompt. He correctly
+greets the user and knows how when to pass to
+inquiry or signup due to explcit instrudctions
+on how to do so. We than provide the JSON of
+camp information so the other prompts will know
+about the camp. We define explicitly for every
+option after greeting (and in greeting) what the
+user input might be, while allowing some flexibility,
+essntaially making the best of both worlds.
